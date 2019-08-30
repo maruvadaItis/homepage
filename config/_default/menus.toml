@@ -7,7 +7,7 @@
   name = "Home"
   url = "#about"
   weight = 30
-  align = "right"
+  
 
 [[main]]
   name = "Posts"
