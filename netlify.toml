@@ -10,9 +10,8 @@
   
 [context.production]
   command = "make production"
-
-  [context.production.environment]
-    HUGO_ENV = "production"
+[context.production.environment]
+   HUGO_ENV = "production"
    
 
 [context.deploy-preview]
