@@ -1,5 +1,5 @@
 [build]
-  command = "hugo --gc --minify -b $URL/make"
+  command = "hugo --gc --minify -b $URL"
   publish = "site/public"
   base = "site"
   
@@ -23,7 +23,7 @@
   ACCESS_TOKEN = "not so secret"
 
 [context.branch-deploy]
-  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL/make staging"
+  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
   
 [context.feature]
   command = "make feature"
