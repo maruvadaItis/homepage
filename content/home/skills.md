@@ -31,6 +31,13 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
+  description = "70%"
+  
+  
+[[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java"
   description = "60%"
 
 +++
