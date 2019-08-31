@@ -1,16 +1,33 @@
 [build]
   command = "hugo --gc --minify -b $URL"
-  publish = "public"
+  publish = "site/public"
+  command = "make"
+  base = "site"
+  
 
 [build.environment]
   HUGO_VERSION = "0.55.6"
   HUGO_ENABLEGITINFO = "true"
+  
+[context.production]
+  command = "make production"
 
 [context.production.environment]
   HUGO_ENV = "production"
+  ACCESS_TOKEN = "super secret"
 
 [context.deploy-preview]
   command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+  
+  
+[context.deploy-preview.environment]
+  ACCESS_TOKEN = "not so secret"
 
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+  command = "make staging"
+[context.feature]
+  command = "make feature"
+
+[context."features/branch"]
+  command = "gulp"
