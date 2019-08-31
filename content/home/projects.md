@@ -21,15 +21,15 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-   [[content.filter_button]]
+[[content.filter_button]]
     name = "WEB DESIGN AND DATA MANAGEMENT"
     tag = "WEB DEVELOPMENT AND DATA MANAGEMENT""
   
-   [[content.filter_button]]
+[[content.filter_button]]
     name = "ANDROID APPLICATION DEVELOPMENT"
     tag = "ANDROID APPLICATION DEVELOPMENT"
   
-   [[content.filter_button]]
+[[content.filter_button]]
      name = "Other"
      tag = "Demo"
 
