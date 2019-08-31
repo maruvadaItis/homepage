@@ -17,8 +17,8 @@ subtitle = ""
 [[feature]]
   icon = "fa-android"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Android Application Development"
+  description = "80%"
   
   
 [[feature]]
