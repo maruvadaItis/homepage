@@ -39,5 +39,18 @@ subtitle = ""
   icon_pack = "fab"
   name = "Java"
   description = "60%"
+  
+  
+[[feature]]
+  icon = "network-wired"
+  icon_pack = "fas"
+  name = "Networking"
+  description = "20%"
+  
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "Data Mining"
+  description = "10%"
 
 +++
