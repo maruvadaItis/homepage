@@ -30,11 +30,9 @@ subtitle = ""
      tag = "Android Application Development"
   
    [[content.filter_button]]
-     name ="Web Design and Data Management"
+     name ="Know It All"
      tag = "Web Design and Data Management"
-   [[content.filter_button]]
-     name ="Web Design and Data Management"
-     tag = "Web Design and Data Management"
+  
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
