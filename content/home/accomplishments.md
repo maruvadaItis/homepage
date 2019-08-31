@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   title = "Certification training on Java and Android"
   url = "https://dashboard.hpesindia.com/courses/courses.php"
   certificate_url = "https://dashboard.hpesindia.com/courses/courses.php"
-  date_start = "2018-03-01"
+  date_start = "2016-03-01"
   date_end = ""
   description = "3 months training by HP on Java and Android Studio ."
   
