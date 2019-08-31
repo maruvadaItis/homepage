@@ -27,7 +27,7 @@ subtitle = ""
   
    [[content.filter_button]]
     name = "ANDROID APPLICATION DEVELOPMENT"
-    tag = "Deep Learning"
+    tag = "ANDROID APPLICATION DEVELOPMENT"
   
    [[content.filter_button]]
      name = "Other"
