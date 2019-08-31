@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "fa-android"
+  icon = "android"
   icon_pack = "fab"
   name = "Android Application Development"
   description = "80%"
