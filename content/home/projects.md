@@ -22,16 +22,16 @@ subtitle = ""
   filter_default = 0
   
    [[content.filter_button]]
-    name = "All"
-    tag = "*"
+    name = "WEB DESIGN AND DATA MANAGEMENT"
+    tag = "WEB DEVELOPMENT AND DATA MANAGEMENT""
   
    [[content.filter_button]]
-    name = "Deep Learning"
+    name = "ANDROID APPLICATION DEVELOPMENT"
     tag = "Deep Learning"
   
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+   [[content.filter_button]]
+     name = "Other"
+     tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
