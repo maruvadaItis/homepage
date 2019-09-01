@@ -39,13 +39,12 @@ date_format = "Jan 2006"
   description = "3 months training by HP on Java and Android Studio ."
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Unity"
+  organization_url = "https://unity.com/"
+  title = "Game Design and development"
   url = ""
-  certificate_url = "https://www.datacamp.com"
   date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  date_end = "2018-03-21"
   description = ""
 
 +++
