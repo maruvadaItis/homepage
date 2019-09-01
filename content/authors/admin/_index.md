@@ -21,9 +21,11 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Internet of Things
-- Application and Game development
+- Artificial Intelligence,Data mining,Machine learning
+- Internet of Things, wireless networks,sensor networks
+- Android Application Development
+- Statistics and Probability
+
 
 education:
   courses:
