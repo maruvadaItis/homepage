@@ -22,7 +22,7 @@ subtitle = ""
   filter_default = 0
   
    [[content.filter_button]]
-     name = "IoT, Smart Traffic System"
+     name = "IoT"
      tag = "IoT"
   
    [[content.filter_button]]
@@ -32,6 +32,10 @@ subtitle = ""
    [[content.filter_button]]
      name ="Web Design and Data Management"
      tag = "Web Design and Data Management"
+     
+   [[content.filter_button]]
+     name ="Data Mining"
+     tag = "Data Mining"
   
 
 [design]
