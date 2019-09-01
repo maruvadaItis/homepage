@@ -51,7 +51,7 @@ social:
   link: https://github.com/maruvadaItis/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-- icon: cv
+#- icon: cv
    icon_pack: ai
    link: https://docs.google.com/document/d/1WW7TXL14tqUUsv1QPiFUNfl83HWYLR8l1AkyC7IPMnw/edit?usp=sharing
 
