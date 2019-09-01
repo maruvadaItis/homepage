@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Masters Student in Computer science and engineering
+role: Graduate Student in Computer Science and Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+
 
 interests:
 - Artificial Intelligence,Data mining,Machine learning
