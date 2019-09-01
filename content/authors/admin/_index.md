@@ -65,6 +65,6 @@ user_groups:
 - Visitors
 ---
 
-Sharat Kumar Maruwada is a Masters student in computer science and engineering, aiming to major in Artificial Intelligence and IoT at the University of Texas at Arlington.His interests include Application development, Web designing, Artificial Intelligence, IoT. He is in the second semester of Masters study. Coming from a computer science background, he has proficiency in computer language usage, web and application designing skills.
+Sharat Kumar Maruwada is a graduate student in computer science and engineering, aiming to major in Artificial Intelligence and IoT at the University of Texas at Arlington. His interests include Application development, Web designing, Artificial Intelligence and IoT. He is presently in the second semester of his graduate study. Coming from a computer science background, he has proficiency in computer language usage, web designing and application development skills.
 
-He wants to join an industry that specializes in Artificial Intelligence and IoT and contribute his part in making this world a better place with intelligent, smart and powerful applications and devices.
+He wants to join an industry that specializes in Artificial Intelligence,Iot and contribute his part in making this world a better place with intelligent, smart and powerful applications, devices and solutions.
