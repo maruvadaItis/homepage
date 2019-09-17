@@ -37,7 +37,7 @@ subtitle = ""
    [[content.filter_button]]
      name ="Data Mining"
      tag = "Data Mining"
-     url = "https://sharatkumarmaruvada.netlify.com/project/recommender/"
+     link = "https://sharatkumarmaruvada.netlify.com/project/recommender/"
   
 
 [design]
