@@ -3,25 +3,25 @@
 
 title = ""
 
-[[gallery_item]]
-album = 
-image = 
+# [[gallery_item]]
+    album = 
+    image = 
 
-[[gallery_item]]
-album = 
-image = 
+# [[gallery_item]]
+    album = 
+    image = 
 
-[[gallery_item]]
-album = 
-image = 
+# [[gallery_item]]
+    album = 
+    image = 
+ 
+# [[gallery_item]]
+     album = 
+    image = 
 
-[[gallery_item]]
-album = 
-image = 
-
-[[gallery_item]]
-album = 
-image = 
+# [[gallery_item]]
+     album = 
+    image = 
 +++
 
 **Project Idea Proposal:**
@@ -33,7 +33,7 @@ image =
 
 **Screenshot Sketches:**
 
-{{< gallery album="Screenshots" >}}
+# {{< gallery album="Screenshots" >}}
 
 
 **Proposal Download Link:**
