@@ -10,6 +10,10 @@ image = "1.PNG"
 
 [[gallery_item]]
 album = "Screenshots"
+image = "2.PNG"
+
+[[gallery_item]]
+album = "Screenshots"
 image = "3.PNG"
 
 [[gallery_item]]
