@@ -19,9 +19,6 @@ album = "Screenshots"
 image = "4.PNG"
 
 +++
-
-
-
 **Project Idea Proposal:**
 <p align="justify>
           
