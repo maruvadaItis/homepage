@@ -27,5 +27,5 @@ Movies and Entertainment play a very vital role in our lives. Can you imagine a 
 **Screenshot Sketches:**
 {{< gallery album="Screenshots" >}}
 
-
 **Proposal Download Link:**
+uploading soon
