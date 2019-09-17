@@ -1,6 +1,6 @@
 +++
 
-title = "Mood Based Movie Recommender System"
+title = "Behavioral Movie Recommender System"
 
 [[gallery_item]]
 album = "Screenshots"
@@ -18,9 +18,6 @@ image = "3.PNG"
 album = "Screenshots"
 image = "4.PNG"
 
-[[gallery_item]]
-album = "Screenshots"
-image = "5.PNG"
 +++
 
 
@@ -32,12 +29,11 @@ Recommender systems have become ubiquitous in our lives.Yet, currently, they are
 In this very Movie recommendation system we take into consideration various factors like mood of the user which will be defined by the user himself, time of the day that will be noted based on login time, Preferences based on ratings given by the user and even the other users using collaborative filtering, and using content based filtering for keywords and attributes.
           
 
-
 The recommender system will be built on the Moviellens 20M data set posted by the MovieLens web site (http://movielens.org).  dataset that has been posted by Jessica Li. The dataset can be found here at:https://grouplens.org/datasets/movielens/20m/.  20 million ratings and 465,000 tag applications applied to 27,000 movies by 138,000 users.Includes tag genome data with 12 million relevance scores across 1,100 tags. 
 
 **Why this idea?**
 
-The internet has taken humanity by storm and has changed the way people live life completely. The smartphone is a catalyst to this revolution. Everyone can afford a smartphone and stay connected to the internet constantly at cost effective prices in India. This can pave the path to know what medications one is supposed to use, accurately and in a safe manner. **PharmEasy** recommendation system is for the people of the world, for the people who do not have immediate access to medical help due to unforeseen circumstances, to keep themselves healthy, fit and live easier in a smarter way. Data mining with machine learning makes this conveniently possible.
+Movies and Entertainment play a very vital role in our lives. Can you imagine a world without Movies ,T.V series , etc life would be too boring I guess.In this world of 21st century when there is so much widespread of smartphones and smart screens with internet facility entertainment on personal screens has become quite common and in such case who would not like to have a personalised experience in movie viewing. All the big online entertainment providers like Netflix,Amazonprimevideo,Hulu,Sling give their viewers a personalized experience to enhance thier viewing experience. Just imagine if we get to know more about our viewers , their mood patterns,their login time, their past history, ratings and based on thier on screen activity which is the future scope of this Movie recommendation sytem , I feel we can be better at giving preferences to the viewers and thereby making their viewing experience even more better.
 </p>
 **Screenshot Sketches:**
 
