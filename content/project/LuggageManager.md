@@ -1,10 +1,10 @@
 
 +++
 
-title = "Luggage Manager"
+title = "Luggage Manager-Baggage tracking application"
 +++
 
 
-Android Application .
+An Android application to track and manage you baggage during your travel.
 
 Will be updated soon. Under Construction
