@@ -24,6 +24,7 @@ image = "4.PNG"
 
 **Project Idea Proposal:**
 <p align="justify>
+          
 Recommender systems have become ubiquitous in our lives.Yet, currently, they are far from optimal.In this project we will try make a movie recommendation system. A system that not only gives you the choices of movies to watch from but also takes into consideration lot of other factors that can enhance our movie viewing experience. Keeping in mind the overall human behaviour these factors can actually make a huge difference in recommending us a perfect and accurate match of movies.These days recommender sytems are gaining lot of attention and why not ?. These systems actually try knowing our preferences based on our history,ratings,acctivity and comes out with the best possible data that a user actually wants to view.But the question still remains that HOW WELL CAN THEY PREDICT? Naturally to predict something you must study it over period of time.Studying helps you know about the activity,behaviour,likingness,dislikingness etc.
 
 In this very Movie recommendation system we take into consideration various factors like mood of the user which will be defined by the user himself, time of the day that will be noted based on login time, Preferences based on ratings given by the user and even the other users using collaborative filtering, and using content based filtering for keywords and attributes.
