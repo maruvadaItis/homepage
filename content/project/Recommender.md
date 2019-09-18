@@ -28,5 +28,5 @@ image = "5.PNG"
 **Screenshot Sketches:**
 {{< gallery album="Screenshots" >}}
 
-**Proposal Download Link:**
+**Project Proposal Link:**
 https://docs.google.com/document/d/1jhd8EnjKupsSdho1ugPaRsRRAXbi0eepTEY551th7ec/edit?usp=sharing
