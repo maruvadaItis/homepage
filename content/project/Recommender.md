@@ -7,6 +7,9 @@ title = "Mood based Movie Recommender System"
 [[gallery_item]]
 album = "Screenshots"
 image = "1.PNG"
+[[gallery_item]]
+album = "Screenshots"
+image = "5.PNG"
 
 [[gallery_item]]
 album = "Screenshots"
@@ -14,11 +17,13 @@ image = "2.PNG"
 
 [[gallery_item]]
 album = "Screenshots"
-image = "3.PNG"
+image = "6.PNG"
 
 [[gallery_item]]
 album = "Screenshots"
-image = "5.PNG"
+image = "3.PNG"
+
+
 +++
 
 **Why this idea?**
