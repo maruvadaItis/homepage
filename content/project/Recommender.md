@@ -1,7 +1,7 @@
 +++
 
 
-title = "Mood based Movie Recommender System"
+title = "Movie Mahal"
 
 
 [[gallery_item]]
