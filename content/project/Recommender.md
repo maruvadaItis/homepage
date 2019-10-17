@@ -35,3 +35,6 @@ image = "3.PNG"
 
 **Project Proposal Link:**
 https://docs.google.com/document/d/1jhd8EnjKupsSdho1ugPaRsRRAXbi0eepTEY551th7ec/edit?usp=sharing
+
+**Project blog:**
+https://www.blogger.com/blogger.g?blogID=5809776031948055642#editor/target=post;postID=3022283409518612925;onPublishedMenu=allposts;onClosedMenu=allposts;postNum=0;src=postname
