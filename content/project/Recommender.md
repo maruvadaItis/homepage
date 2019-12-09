@@ -37,6 +37,8 @@ image = "3.PNG"
 https://docs.google.com/document/d/1jhd8EnjKupsSdho1ugPaRsRRAXbi0eepTEY551th7ec/edit?usp=sharing
 
 **Project blog:**
+
+
 Development Phase 1:
 https://moviemahalmoviedekho.blogspot.com/2019/10/movie-mahal-movie-recommender-web.html
 
