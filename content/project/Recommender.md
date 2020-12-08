@@ -1,7 +1,7 @@
 +++
 
 
-title = "Movie Mahal"
+title = "Movie Recommender"
 
 
 [[gallery_item]]
