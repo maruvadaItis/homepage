@@ -67,4 +67,4 @@ user_groups:
 
 Sharat Kumar Maruwada is a graduate student in Computer Science and Engineering, major in Software Development, Database Systems and Networking from the University of Texas at Arlington. His interests include Application development, Web designing, Artificial Intelligence and IoT. He has successfully completed the masters course work and has been awarded with the masters degree in Computer and Information Sciences.
 
-He wants to join an industry that specializes in Application Development, Artificial Intelligence / Iot and contribute his part in making this world a better place with intelligent, smart and powerful applications and solutions.
+He wants to join an industry that specializes in Application Development, Data Mining/Artificial Intelligence, Iot and contribute his part in making this world a better place with intelligent, smart, powerful applications and solutions.
