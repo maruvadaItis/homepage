@@ -23,5 +23,5 @@
  #To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
     name = "CV"
-    url = "#static/img/RESUMEv3.0.pdf.pdf"
+    url = "https://drive.google.com/file/d/1duHVYgTcTKNmzqevdEovSLI96hCSaTA0/view?usp=sharing"
     weight = 70
